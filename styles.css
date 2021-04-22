@@ -1,0 +1,33 @@
+
+
+
+
+#spanValue{
+	font-size: 60px;
+	display: block;
+	text-align: center; /* align text in span do not work if you do not use "diplay: block. 
+	
+	}	 
+		
+	.container3{
+			background-color: yellow;
+			position: absolute;
+			display: block;
+			margin-top: 0%;
+			margin-left: 40%; 
+		}
+		
+	button{
+		font-size: 25px; 
+		align: center;
+		padding: 5px;
+		display: inline-block;
+		background-color: lightblue;
+		height: 50px;
+		width: auto;
+	}
+	
+	
+		
+		
+		 
